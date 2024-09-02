@@ -4,7 +4,7 @@ import os
 data_folder = './data'
 
 # Define the minimum file size threshold (20KB)
-min_file_size_kb = 30
+min_file_size_kb = 70
 
 # Convert KB to bytes
 min_file_size_bytes = min_file_size_kb * 1024
