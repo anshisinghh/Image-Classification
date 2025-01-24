@@ -19,13 +19,3 @@ The CNN model was built using TensorFlow and Keras. The architecture includes:
 The model was fine-tuned and optimized through several iterations, which included adjusting the learning rate, changing the number of layers, and experimenting with different activation functions.
 
 ![Pizza Image Example](example_run.png)
-
-## How to Run
-
-1. **Set Up Virtual Environment**:
-   ```bash
-   python3.11 -m venv imageclassification
-   source imageclassification/bin/activate  # On Windows, use `imageclassification\Scripts\activate`
-2. **Start Jupyter Lab**:
-   ```bash
-   jupyter lab
